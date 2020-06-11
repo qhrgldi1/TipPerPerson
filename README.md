@@ -10,6 +10,4 @@
 7. MVC Design Patterns를 따름
 
 ## 실행 화면
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJy589Vt5DY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 [![play](http://img.youtube.com/vi/TJy589Vt5DY/0.jpg)](https://www.youtube.com/watch?v=TJy589Vt5DY?t=0s)
